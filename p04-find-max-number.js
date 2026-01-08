@@ -10,4 +10,5 @@ function findMaxNumber(arr) {
   }
   return max;
 }
-console.log(findMaxNumber([5, 1, 9, 3]));
+// console.log(findMaxNumber([5, 1, 9, 3]));
+// Run in terminal with: node p04-find-max-number.js

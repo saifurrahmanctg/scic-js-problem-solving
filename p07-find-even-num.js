@@ -7,4 +7,5 @@ function findEvenNumbers(arr) {
   }
   return evens;
 }
-console.log(findEvenNumbers([1, 2, 3, 4, 5, 6]));
+// console.log(findEvenNumbers([1, 2, 3, 4, 5, 6]));
+// Run in terminal with: node p07-find-even-num.js

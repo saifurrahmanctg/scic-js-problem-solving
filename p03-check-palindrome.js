@@ -3,5 +3,7 @@ function isPalindrome(str) {
   const reversed = cleaned.split("").reverse().join("");
   return cleaned === reversed;
 }
-console.log(isPalindrome("madam"));
-console.log(isPalindrome("hello"));
+// console.log(isPalindrome("madam"));
+// console.log(isPalindrome("hello"));
+
+// Run in terminal with: node p03-check-palindrome.js

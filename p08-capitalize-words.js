@@ -4,4 +4,5 @@ function capitalizeWords(str) {
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
     .join(" ");
 }
-console.log(capitalizeWords("hello world"));
+// console.log(capitalizeWords("hello world"));
+// Run in terminal with: node p08-capitalize-words.js

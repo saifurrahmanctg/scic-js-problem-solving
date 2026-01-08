@@ -13,3 +13,5 @@ function pingPong() {
 }
 
 pingPong();
+
+// Run in terminal with: node p10-ping-pong.js

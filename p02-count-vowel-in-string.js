@@ -8,4 +8,5 @@ function countVowels(str) {
   }
   return count;
 }
-console.log(countVowels("programming"));
+// console.log(countVowels("programming"));
+// Run in terminal with: node p02-count-vowel-in-string.js
